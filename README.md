@@ -1,2 +1,2 @@
-# healthcare
-analytics
+
+pip install plotly math pandas streamlit
